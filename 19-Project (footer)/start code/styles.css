@@ -45,6 +45,13 @@
   grid-template-columns: 1fr;
 }
 
+footer > .container{
+  display: grid;
+  grid-template-columns: 24px 1fr;
+  column-gap: 8px;
+  align-items: center;
+}
+
 @media (min-width: 768px) {
   .posts {
     gap: 24px;

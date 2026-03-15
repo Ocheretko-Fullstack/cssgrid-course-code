@@ -4,5 +4,5 @@
 
 .container {
   display: grid;
-  /* display: inline-grid; */
+  display: inline-grid;
 }
